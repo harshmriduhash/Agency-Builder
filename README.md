@@ -1,6 +1,5 @@
 # SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
-
-Huge thanks to [Webprodigies](https://www.youtube.com/@webprodigies) on yoututbe for sharing this amazing project. I spent more than a month building this project and learnt a lot while building this project.
+# I spent more than a month building this project and learnt a lot while building this project.
 
 ### My contributions:
 - Built the entire Pipelines and tickets drag and drop functionality from scratch with another library - [@dnd-kit](https://dndkit.com)
